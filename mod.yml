@@ -1,0 +1,9 @@
+title: Not Like Us
+originalAuthor: danimalforlife
+description: Fixes the sound effect for the finishing blow on a boss to something better. Like K.Dot hitting the finishing blow on Drizzy. THEY NOT LIKE US.
+
+assets:
+- name: se\se000.win32.scd
+  method: copy
+  source:
+  - name: NOT_LIKE_US.scd
